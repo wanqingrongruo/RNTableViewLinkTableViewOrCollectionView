@@ -1,0 +1,2 @@
+# RNTableViewLinkTableViewOrCollectionView
+tableView 与 tableView或者 collectionView 联动
